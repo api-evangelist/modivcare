@@ -33,9 +33,13 @@ tags:
   - Remote Patient Monitoring
 description: ModivCare Inc. is a technology-enabled healthcare services company that provides a suite of integrated supportive care solutions for public and private payors and their members. The company offers non-emergency medical transportation (NEMT), personal care services, and remote patient monitoring to address social determinants of health. ModivCare partners with healthcare plans, government agencies, and providers to improve access to care for vulnerable populations.
 created: '2026-05-04'
-modified: '2026-05-04'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 common:
+  - url: https://www.modivcare.com/newsroom/
+    type: Blog
+  - url: https://www.modivcare.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/modivcare-domain-security.yml
   - type: LinkedIn
